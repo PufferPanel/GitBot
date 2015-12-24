@@ -29,3 +29,5 @@ node_modules
 config.json
 
 *.fuse_hidden*
+
+.idea/
